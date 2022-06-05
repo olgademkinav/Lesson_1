@@ -14,3 +14,4 @@ for el in cycle("1,2,3"):
     if c > 10:
         break
 print('hello')
+print ('hi')
